@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/actores/478d9b9f-f417-4e36-a395-dc120e2e62d1.png",
+      "PackagePath": "staticwebassets/actores/478d9b9f-f417-4e36-a395-dc120e2e62d1.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/01117445-c89a-4807-9ae7-f64888c6a662.png",
+      "PackagePath": "staticwebassets/peliculas/01117445-c89a-4807-9ae7-f64888c6a662.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/018e553a-baea-485a-976a-f429f7448aba.png",
+      "PackagePath": "staticwebassets/peliculas/018e553a-baea-485a-976a-f429f7448aba.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/0c35ec26-2ade-4750-ad4c-f43dc5538b6d.png",
+      "PackagePath": "staticwebassets/peliculas/0c35ec26-2ade-4750-ad4c-f43dc5538b6d.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/19521f59-548b-4c00-a3b3-4716dfa36366.png",
+      "PackagePath": "staticwebassets/peliculas/19521f59-548b-4c00-a3b3-4716dfa36366.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/40b77d37-d15b-4a1a-bb80-c59837f07b43.png",
+      "PackagePath": "staticwebassets/peliculas/40b77d37-d15b-4a1a-bb80-c59837f07b43.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/411c11a4-821b-4b04-8de6-08b66c657f2e.png",
+      "PackagePath": "staticwebassets/peliculas/411c11a4-821b-4b04-8de6-08b66c657f2e.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/659cf513-72ef-4bda-8c83-d277c23199b7.png",
+      "PackagePath": "staticwebassets/peliculas/659cf513-72ef-4bda-8c83-d277c23199b7.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/65b07e6f-3cd0-4cfd-bfa4-9bb1e43efc94.png",
+      "PackagePath": "staticwebassets/peliculas/65b07e6f-3cd0-4cfd-bfa4-9bb1e43efc94.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/75badaf5-60b0-4af0-9274-828154864b54.png",
+      "PackagePath": "staticwebassets/peliculas/75badaf5-60b0-4af0-9274-828154864b54.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/829b4ee1-ef8a-445b-8279-373c4d967e9e.png",
+      "PackagePath": "staticwebassets/peliculas/829b4ee1-ef8a-445b-8279-373c4d967e9e.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/8bb39d87-11bb-4ef5-a6a5-96fbb913ecfd.png",
+      "PackagePath": "staticwebassets/peliculas/8bb39d87-11bb-4ef5-a6a5-96fbb913ecfd.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/91f4c19d-02db-4d4d-a9f3-a1b2467de49b.png",
+      "PackagePath": "staticwebassets/peliculas/91f4c19d-02db-4d4d-a9f3-a1b2467de49b.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/975a5c2c-90ef-4289-bf69-9d9b3a7fbd7c.png",
+      "PackagePath": "staticwebassets/peliculas/975a5c2c-90ef-4289-bf69-9d9b3a7fbd7c.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/97a0c496-57f6-4103-886e-4e22b7eb8f72.png",
+      "PackagePath": "staticwebassets/peliculas/97a0c496-57f6-4103-886e-4e22b7eb8f72.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/aebd68d5-1201-4f86-b5af-d20798b2822c.png",
+      "PackagePath": "staticwebassets/peliculas/aebd68d5-1201-4f86-b5af-d20798b2822c.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/b71878f5-a567-43bb-a3c3-57e844a23818.png",
+      "PackagePath": "staticwebassets/peliculas/b71878f5-a567-43bb-a3c3-57e844a23818.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/ce9be74a-8b67-43e4-913e-1bf7a0920ebe.png",
+      "PackagePath": "staticwebassets/peliculas/ce9be74a-8b67-43e4-913e-1bf7a0920ebe.png"
+    },
+    {
+      "Id": "/Users/eduardodominguez/Desktop/Cursos/ApiPeliculas/ApiPeliculas/wwwroot/peliculas/f8b2b424-1229-448f-adaf-3ab9f0e142fd.png",
+      "PackagePath": "staticwebassets/peliculas/f8b2b424-1229-448f-adaf-3ab9f0e142fd.png"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.ApiPeliculas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.build.ApiPeliculas.props",
+      "PackagePath": "build\\ApiPeliculas.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.ApiPeliculas.props",
+      "PackagePath": "buildMultiTargeting\\ApiPeliculas.props"
+    },
+    {
+      "Id": "obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.ApiPeliculas.props",
+      "PackagePath": "buildTransitive\\ApiPeliculas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
